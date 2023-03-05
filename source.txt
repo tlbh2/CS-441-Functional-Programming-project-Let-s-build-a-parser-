@@ -1,0 +1,7 @@
+https://stackoverflow.com/questions/57565313/convert-a-string-to-list
+
+https://beautifulracket.com/explainer/lists.html
+
+https://stackoverflow.com/questions/66032231/recursively-reading-a-file-in-racket
+
+https://stackoverflow.com/questions/75570760/building-a-lexer-in-racket-how-to-identify-tokenize-a-line-number-that-comes
